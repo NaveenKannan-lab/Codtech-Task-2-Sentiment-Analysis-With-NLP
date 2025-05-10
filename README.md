@@ -1,3 +1,16 @@
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : NAVEEN K
+
+INTERN ID : CT06DA721
+
+DOMAIN : MACHINE LEARNING
+
+DURATION : 6 WEEKS
+
+MENTOR : NEELA SANTHOSH KUMAR
+
+
   Task 2 – Sentiment Analysis using TF-IDF and Logistic Regression
 
   Internship Project - Machine Learning (CodTech)
